@@ -8,7 +8,7 @@ const PSContact = () => {
       <a href="https://www.facebook.com/ProSystemsDgo/" target="_blank">
           <img src={PSDGO} className="logo-psdgo" alt="Vite logo" />
         </a>
-      <a href="services" target="">
+      <a href="/services" target="">
           <img src={PSDGO} className="logo-psdgo" alt="Vite logo" />
         </a>
       <h1>PRO SYSTEMS DGO</h1>

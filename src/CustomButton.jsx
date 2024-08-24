@@ -6,7 +6,7 @@ const CustomButton = () => {
     
   return (
     <div>  
-      <Link to={'services'}>
+      <Link to={'/services'}>
       
       <button> Servicios IT </button>
         

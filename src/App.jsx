@@ -16,7 +16,7 @@ function App() {
         </a>
       </div>
       <div>
-        <Link to={'services'} >
+        <Link to={'/services'} >
           <img src={reactLogo} className="logo react" alt="React logo" />
         </Link>
       </div>

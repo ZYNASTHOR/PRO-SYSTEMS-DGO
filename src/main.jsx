@@ -17,20 +17,20 @@ import '@fontsource/roboto/700.css';
 
 const router = createBrowserRouter([
   {
-    path: "/PRO-SYSTEMS-DGO",
+    path: "/",
     element: <Root />,
     errorElement: <h1> You must construct additional pylons </h1>,
     children: [
       {
-        path: "/PRO-SYSTEMS-DGO",
+        path: "/",
         element: <App />,
       },
       {
-        path: "services",
+        path: "/services",
         element: <ITServices />,
       },
       {
-        path: "Contact",
+        path: "/Contact",
         element: <PSContact />,
       },
     ],
